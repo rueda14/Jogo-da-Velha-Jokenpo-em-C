@@ -6,6 +6,7 @@ Descrição
 Este projeto contém dois programas em C que implementam jogos clássicos com sistema de menus:
 1. Jogo da Velha
 2. Jokenpô (Pedra, Papel e Tesoura)
+   
 Cada jogo oferece modos de jogo contra outro jogador ou contra a máquina.
 
 
@@ -57,6 +58,7 @@ Jogo da Velha:
 - Tabuleiro 3x3 interativo
 - Verificação automática de vitória/empate
 - Jogada aleatória da máquina no modo single player
+  
 Jokenpô:
 - Opções de Pedra, Papel e Tesoura
 - Lógica de vitória implementada
@@ -76,4 +78,5 @@ Diferenças entre as versões
 
 
 Autor
+
 Diego Rueda
